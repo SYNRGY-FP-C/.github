@@ -21,19 +21,19 @@
 - Rent form
 - Footer
 
-## User profile /me
+## User profile /my
 
 - Navbar / Sidebar
 - User profile
 - Footer
 
-## User notification /me/notifications
+## User notification /my/notifications
 
 - Navbar / Sidebar
 - User notifications
 - Footer
 
-## User booking history /me/history
+## User booking history /my/history
 
 - Navbar / Sidebar
 - User booking history

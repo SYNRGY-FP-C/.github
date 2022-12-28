@@ -8,9 +8,9 @@ Guest
 
 User
 
-- /me => User profile
-- /me/notifications => User notification
-- /me/history => User booking history
+- /my => User profile
+- /my/notifications => User notification
+- /my/history => User booking history
 
 Owner (additional)
 
