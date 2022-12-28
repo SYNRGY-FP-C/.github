@@ -9,3 +9,8 @@
 - Room list
   - Has 3 types by gender (male, female, mixed)
   - Has 3 types by payment periode (daily, weekly, monthly)
+
+## Sketch
+
+- [Pages](./PAGES.md)
+- [Components](./COMPONENTS.md)
